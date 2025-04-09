@@ -1,0 +1,6 @@
+geopandas>=0.14.0
+pandas>=1.5.0
+numpy>=1.23.0
+folium>=0.15.0        # For creating interactive web maps (optional)
+matplotlib>=3.7.0     # For plotting spatial data (optional)
+shapely>=2.0.0        # Geometry support for geospatial work
